@@ -428,7 +428,15 @@ Machine Learning Toolkit for Kubernetes
 
 # Agent
 
+## AgentOS
 
+https://github.com/agiresearch/AIOS
+4k
+AIOS: AI Agent Operating System
+
+
+
+## Agent
 
 https://github.com/geekan/MetaGPT
 
@@ -514,7 +522,7 @@ https://github.com/modelscope/MemoryScope
 
 ## 自动化工具
 
-
+### 自动化工具
 
 https://github.com/ComposioHQ/composio
 
@@ -529,6 +537,23 @@ Composio equip's your AI agents & LLMs with 100+ high-quality integrations via f
 
 * **灵活的架构与认证管理**
   Composio提供了可白标的后端集成解决方案，支持定制工具和扩展功能，具有灵活的架构设计。它还支持多种认证协议（如OAuth、API密钥、Basic JWT），简化了身份验证和授权过程，使得与不同系统和服务的集成更加高效。
+
+
+https://github.com/bytedance/UI-TARS-desktop
+
+A GUI Agent application based on UI-TARS(Vision-Lanuage Model) that allows you to control your computer using natural language.
+Agent TARS是一款功能强大的开源多模态AI Agent，具备自主浏览网页、集成命令行和文件系统的能力，能够灵活利用浏览器执行各类操作。
+
+
+
+
+
+### Manus
+
+- https://github.com/langmanus/langmanus
+- A community-driven AI automation framework that builds upon the incredible work of the open source community. Our goal is to combine language models with specialized tools for tasks like web search, crawling, and Python code execution, while giving back to the community that made this possible.
+
+
 
 
 
@@ -756,7 +781,7 @@ Your AI second brain. Self-hostable. Get answers from the web or your docs. Buil
 
 
 
-## 工作流(**Workflow**)
+## 工作流(Workflow)
 
 https://github.com/langgenius/dify
 
@@ -832,7 +857,7 @@ Your friendliest open source AI automation tool ✨ Workflow automation tool 200
 
 
 
-### **AI 代理开发框架**
+### AI 代理开发框架
 
 https://github.com/JoshuaC215/agent-service-toolkit
 
